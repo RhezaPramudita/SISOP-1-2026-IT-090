@@ -1,0 +1,8 @@
+--- Laporan Tanggal Mon Mar 23 07:45:43 PM WIB 2026 ---
+Total pemasukan (Aktif) : Rp5000000
+Total tunggakan         : Rp0
+Jumlah kamar terisi     : 1
+----------------------------------------------
+Daftar penghuni menunggak:
+ Tidak ada tunggakan.
+
